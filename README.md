@@ -1,6 +1,6 @@
 # quran_demo_app
 
-A new Flutter project.
+An intuitive mobile app designed to help users revise and memorize the Quran effectively. Features include progress tracking, personalized revision schedules, and easy navigation through Quranic chapters to support consistent and structured learning.
 
 ## Getting Started
 
